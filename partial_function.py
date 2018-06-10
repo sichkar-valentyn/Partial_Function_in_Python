@@ -1,3 +1,15 @@
+# File: partial_function.py
+# Description: Examples on how to use partial function in Python
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Examples on how to use partial function in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Partial_Function_in_Python (date of access: XX.XX.XXXX)
+
+
 # Explaining partial function and how to use it
 # Importing partial from functools
 from functools import partial
