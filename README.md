@@ -1,4 +1,4 @@
-# Partial_Function_in_Python
+# Partial Function in Python
 How to use partial function in Python
 
 ### Reference to:
