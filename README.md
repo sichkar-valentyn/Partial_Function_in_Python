@@ -1,9 +1,6 @@
 # Partial Function in Python
 How to use partial function in Python
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Examples on how to use partial function in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Partial_Function_in_Python (date of access: XX.XX.XXXX)
 
